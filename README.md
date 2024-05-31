@@ -12,3 +12,8 @@
 - [clingo](https://potassco.org/clingo/) version 5.6 or higher
 
 ## Sample sessions
+
+```
+python solver/heulingo.py --heulingo-configuration=teaspoon encoding/teaspoon.lp benchmark/ud5.lp benchmark/ITC-2007_asp/comp01.lp config/random_N.lp -c n=4
+```
+
